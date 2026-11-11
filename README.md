@@ -1,13 +1,13 @@
-# AI-Augmented Analytics for Data Visualization: Module 1: Making AI Work: Skills
+# AI-Augmented Analytics for Data Visualization: Module 3: Skills
 
-Prompts are on the course page.
+This project is used in the instructor-led skills demonstration.
 
 ## Installation
 
 1. Download and unzip this project, or clone this repository.
 2. Install R and Quarto. Open the `.Rproj` file in RStudio, or open the folder in Positron.
 3. Run `source("setup.R")` once in the R console.
-4. Open `notebooks/style-task.qmd` and use the prompt from the module guide.
+4. Open `notebooks/style-task.qmd` and follow the instructor’s demonstration.
 5. Render the completed notebook with `quarto render notebooks/style-task.qmd` from the project folder.
 
 ## Contents
